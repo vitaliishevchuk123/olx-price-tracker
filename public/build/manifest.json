@@ -1,0 +1,34 @@
+{
+  "public/img/front/404.png": {
+    "file": "assets/404-CROYxeHy.png",
+    "src": "public/img/front/404.png"
+  },
+  "public/img/front/money_Icon.png": {
+    "file": "assets/money_Icon-C6nYyG60.png",
+    "src": "public/img/front/money_Icon.png"
+  },
+  "public/img/front/olx-logo.png": {
+    "file": "assets/olx-logo-BgstSpkU.png",
+    "src": "public/img/front/olx-logo.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-D4JfQPZw.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CizuDLWf.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-BCEtZGiD.css",
+      "assets/app-D4JfQPZw.css"
+    ],
+    "assets": [
+      "assets/olx-logo-BgstSpkU.png",
+      "assets/404-CROYxeHy.png",
+      "assets/money_Icon-C6nYyG60.png"
+    ]
+  }
+}
